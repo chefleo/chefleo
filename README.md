@@ -3,7 +3,6 @@ My name is @chefleo and I am an entry-level web3 engineer with a passion for bui
 
 I have recently completed my bachelor's degree in computer science and have been actively learning about blockchain technology and web3 development through various online courses and personal projects.
 I have experience working with a variety of blockchain platforms, including [Ethereum](https://ethereum.org/en/) 🦄, and have familiarity with [Solidity](https://docs.soliditylang.org/en/v0.8.17/) 💎 and other programming languages. 
-In my previous role as a software engineer, I worked on projects ranging from full-stack web development to data analysis and machine learning.
 
 I am always looking to learn more and improve my skills, and I am excited to join a team where I can grow as a web3 engineer and 
 make a meaningful contribution. In my free time, I enjoy staying up to date on the latest developments in the blockchain space 🌌 and contributing to open-source projects on GitHub 💻.
