@@ -1,17 +1,15 @@
-# Hi there! 🙋‍♂️ 
-My name is @chefleo and I am an entry-level web3 engineer with a passion for building decentralized applications (DApps). 
+# Web3 Software Engineer & Technical Writer
 
-I have recently completed my bachelor's degree in computer science and have been actively learning about blockchain technology and web3 development through various online courses and personal projects.
-I have experience working with a variety of blockchain platforms, including [Ethereum](https://ethereum.org/en/) 🦄, and have familiarity with [Solidity](https://docs.soliditylang.org/en/v0.8.17/) 💎 and other programming languages. 
+My name is @chefleo and I'm a dedicated Web3 Software Engineer with a passion for designing and developing front-end solutions for decentralized applications (DApps). My expertise lies in utilizing cutting-edge web3 technologies, specifically the Wagmi hook (Viem version), to seamlessly connect with smart contracts on the blockchain.
 
-I am always looking to learn more and improve my skills, and I am excited to join a team where I can grow as a web3 engineer and 
-make a meaningful contribution. In my free time, I enjoy staying up to date on the latest developments in the blockchain space 🌌 and contributing to open-source projects on GitHub 💻.
+Also I am a Technical Writer with a focus on articulating complex technical concepts in a clear and concise manner.
 
-Some of my notable personal projects include a DApp called [BuyMeACoffee] ☕️ built with Hardhat and Solidity, deployed on the Goerli testnet and using the Alchemy API to interact with the Ethereum network. 
-I have also created several clones of popular websites and apps, including [Hulu](https://github.com/chefleo/hulu-clone) 📺, [Amazon](https://github.com/chefleo/amazon-clone) 🛒, [Spotify](https://github.com/chefleo/spotify-next-clone) 🎧, [Instagram](https://github.com/chefleo/instagram-clone) 📸, [Airbnb](https://github.com/chefleo/airbnb-clone) 🏡, [Slack](https://github.com/chefleo/slack-clone) 💬, and [Netflix](https://github.com/chefleo/netflix-clone) 🎥, using technologies such as React 💻, Next.js, and Vercel.
+### Responsibilities:
 
-In addition to my technical skills, I have experience working on open-source projects, including contributing to the translation of the HTTP Archive - Web Almanac 2020 and writing articles on topics such as the [Libra blockchain](https://simon-digiorgio.medium.com/la-blockchain-di-libra-e8b1e243fcbd) 🔗 and its [Move language](https://simon-digiorgio.medium.com/il-linguaggio-move-1b0a996fe5c9) 🌀.
+- **Front-end Development:** Design and develop user-friendly interfaces for decentralized applications.
+- **Blockchain Integration:** Utilize Wagmi hook (Viem version) to establish a secure and efficient connection with smart contracts.
+- **Technical Writing:** Distill intricate technical concepts into clear and informative articles.
 
-I am excited to join a team where I can utilize my skills and continue learning about the exciting world of web3 development. 
+Feel free to reach out if you have any questions or if there's anything specific you'd like to discuss! 🚀
 
-Thank you for considering my profile. 🙏
+
