@@ -2,7 +2,7 @@
 
 My name is @chefleo and I'm a dedicated Web3 Software Engineer with a passion for designing and developing front-end solutions for decentralized applications (DApps). My expertise lies in utilizing cutting-edge web3 technologies, specifically the Wagmi hook (Viem version), to seamlessly connect with smart contracts on the blockchain.
 
-Also I am a Technical Writer with a focus on articulating complex technical concepts in a clear and concise manner.
+Also I am a Technical Writer with a focus on articulating complex technical concepts in a clear and concise manner. ([Medium](https://medium.com/@simon-digiorgio))
 
 ### Responsibilities:
 
